@@ -1,7 +1,8 @@
+Install Howto
+=============
 
-Sense is now part of Marvel
-=====
+* `cd elasticsearch`
+* `mkdir plugins/sense`
+* `mkdir plugins/sense/_site`
 
-The development of Sense has moved into Elasticsearch Marvel, you can find it here: http://www.elasticsearch.org/overview/marvel/
-
-If you have any question or find an issue, feel free to post on the elasticsearch user group: http://groups.google.com/forum/#!forum/elasticsearch
+* copy all the stuff from this repo in there.
